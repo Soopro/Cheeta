@@ -1,0 +1,19 @@
+syntax: glob
+*.pyc
+*.pyo
+.*.swp
+*~
+.coverage
+data
+old
+Ekeet.egg-info
+Masheet.egg-info
+doc/_build
+mongokit.egg-info
+.tox
+
+build
+dist
+venv
+.tmp
+.idea/*
